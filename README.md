@@ -61,8 +61,8 @@ A Python-based application developed as part of my Master’s program to manage 
 
 ## 🌐 Connect With Me
 - 📧 Email: sree0301k@gmail.com
-- 💼 LinkedIn: *(add your LinkedIn link)*
-- 🌐 Portfolio: *(add your GitHub Pages link)*
+- 💼 LinkedIn: https://www.linkedin.com/in/rs-kalikar-52b25a251/
+- 🌐 Portfolio: https://github.com/SreeK3/SreeK3.github.io
 
 ---
 
