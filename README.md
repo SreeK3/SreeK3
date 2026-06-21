@@ -53,7 +53,7 @@ Validated and maintained Python-based data pipelines supporting AI/ML production
 | **[Obesity Risk Prediction](https://github.com/SreeK3/obesity-risk-prediction)** | Classification model predicting obesity risk from lifestyle/health features. Evaluated with accuracy, precision, recall, F1-score. | `Python` `scikit-learn` `Pandas` `NumPy` |
 | **[Flight Ticket Trading System](https://github.com/SreeK3/flight-ticket-trading-system)** | FastAPI + SQLAlchemy backend for ticket listing, buying, and selling with business-rule validation and transaction management. | `Python` `FastAPI` `SQL` |
 
-> These links assume you name the repos exactly `obesity-risk-prediction` and `flight-ticket-trading-system` when you create them (see instructions below). Rename here if you use different repo names.
+
 
 ---
 
