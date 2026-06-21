@@ -50,21 +50,19 @@ Validated and maintained Python-based data pipelines supporting AI/ML production
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Obesity Risk Prediction](#)** | Classification model predicting obesity risk from lifestyle/health features. Evaluated with accuracy, precision, recall, F1-score. | `Python` `scikit-learn` `Pandas` `NumPy` |
-| **[Flight Ticket Trading System](#)** | Python backend for ticket listing, buying, and selling with business-rule validation and transaction management. | `Python` `FastAPI` `SQL` |
+| **[Obesity Risk Prediction](https://github.com/SreeK3/obesity-risk-prediction)** | Classification model predicting obesity risk from lifestyle/health features. Evaluated with accuracy, precision, recall, F1-score. | `Python` `scikit-learn` `Pandas` `NumPy` |
+| **[Flight Ticket Trading System](https://github.com/SreeK3/flight-ticket-trading-system)** | FastAPI + SQLAlchemy backend for ticket listing, buying, and selling with business-rule validation and transaction management. | `Python` `FastAPI` `SQL` |
 
-> Replace the `#` links above with your actual repo URLs once you push these projects to GitHub.
+> These links assume you name the repos exactly `obesity-risk-prediction` and `flight-ticket-trading-system` when you create them (see instructions below). Rename here if you use different repo names.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SreeK3&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreeK3" height="160"/>
 </p>
-
-> Replace `YOUR_GITHUB_USERNAME` in the two image URLs above with your real GitHub username for these to render.
 
 ---
 
