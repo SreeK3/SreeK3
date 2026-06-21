@@ -1,70 +1,71 @@
-  # Hi, I'm Sree K 👋
-                       
-🎓 Master’s in Computer Science  
-💻 Aspiring Python Developer & AI Engineer  
-📊 Python for AI Certified – IBM (Coursera)
+<h1 align="center">Hi 👋, I'm Sree K</h1>
+<h3 align="center">Machine Learning Professional | Autonomous Vehicle Perception Data | Aspiring ML Engineer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sree-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sree0301K@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
-I am an aspiring Python Developer and AI Engineer with a strong foundation in Python, data analysis, and machine learning fundamentals. I have over 5 years of professional experience in IT support, data operations, and quality validation, with hands-on exposure to AI training data workflows in enterprise environments. I enjoy building Python-based applications and continuously learning AI-driven technologies.
+### 🧭 About Me
+
+I'm a Machine Learning professional with hands-on experience supporting **autonomous vehicle perception systems** — annotating, validating, and quality-checking LiDAR and multi-modal sensor data that fed directly into Waymo's self-driving ML pipelines while at Wipro. I'm now building out my model-development skills (Python, scikit-learn, TensorFlow, PyTorch) and transitioning toward ML engineering and computer vision roles.
+
+- 🔭 Currently sharpening my skills in classification modeling and CV fundamentals
+- 🌱 Learning: TensorFlow/Keras, PyTorch, deployment workflows
+- 💼 Background: LiDAR data annotation & validation, data pipeline QA for AV perception systems
+- 🎓 M.S. Computer Science — Sacred Heart University (2024)
+- 📫 Reach me: sree0301K@gmail.com
 
 ---
 
+### 🛠️ Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Languages & Data:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreek3&show_icons=true&locale=en&layout=compact" alt="sreek3" /></p>
+**ML & Data Science:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreek3&show_icons=true&locale=en" alt="sreek3" /></p>
+**Computer Vision / AV Data:** LiDAR Data Annotation & Validation, Semantic Segmentation, Multi-Modal Sensor Data, Crowd Compute, Semseg Tool, Guided Spotting Tool
 
-
-
-## 🛠️ Skills
-- **Programming:** Python, .NET (basic), Node.js (basic)
-- **AI & Data:** Machine Learning Fundamentals, Data Analysis, Python for AI
-- **Databases:** MySQL, Microsoft SQL Server
-- **Automation & Tools:** UiPath, Git, GitHub, VS Code
-- **Web Basics:** HTML, CSS
-- **Professional:** Troubleshooting, Technical Documentation, Cross-functional Collaboration
+**Web & Tools:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 
 ---
 
-## 📂 Projects
-### ✈️ Flight Ticket Trading System (Academic Project)
-A Python-based application developed as part of my Master’s program to manage flight ticket listing, buying, selling, and availability workflows with proper data validation.
+### 💼 Experience Highlights
 
-**Tech Stack:** Python, SQL  
-🔗 *GitHub repo coming soon*
+**Senior Associate — LiDAR Operations & ML Data Quality**, Wipro Pvt Ltd *(2020–2022)*
+Supported Waymo's autonomous vehicle perception pipeline through large-scale LiDAR/multi-modal sensor annotation, validation, and QA. Awarded "Best Performer" and part of the "Best Labeling Team."
 
----
-
-## 🎓 Certifications
-- Python for AI – IBM (Coursera)
-- Software Engineering Essentials – IBM (Coursera)
-- UiPath Automation – Coursera
+**ML Support Engineer**, Skyline Archon Pvt Ltd *(2018–2020)*
+Validated and maintained Python-based data pipelines supporting AI/ML production workflows.
 
 ---
 
-## 🏢 Professional Experience
-- **Wipro** – Senior Associate  
-  Supported LiDAR data annotation and validation workflows for autonomous vehicle systems, contributing to high-quality AI training datasets.
+### 🚀 Featured Projects
 
-- **Regional Center for Urban Environmental Studies** – IT Technical Support  
-  Provided application and system support, software maintenance, and technical documentation.
+| Project | Description | Tech |
+|---|---|---|
+| **[Obesity Risk Prediction](#)** | Classification model predicting obesity risk from lifestyle/health features. Evaluated with accuracy, precision, recall, F1-score. | `Python` `scikit-learn` `Pandas` `NumPy` |
+| **[Flight Ticket Trading System](#)** | Python backend for ticket listing, buying, and selling with business-rule validation and transaction management. | `Python` `FastAPI` `SQL` |
 
-- **Skyline Archon Private Limited** – IT Technical Support  
-  Monitored systems, resolved technical issues, and maintained support documentation.
-
----
-
-## 🌐 Connect With Me
-- 📧 Email: sree0301k@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rs-kalikar-52b25a251/
-- 🌐 Portfolio: https://github.com/SreeK3/SreeK3.github.io
+> Replace the `#` links above with your actual repo URLs once you push these projects to GitHub.
 
 ---
 
-⭐ Feel free to explore my repositories and follow my learning journey in Python and AI.
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="160"/>
+</p>
+
+> Replace `YOUR_GITHUB_USERNAME` in the two image URLs above with your real GitHub username for these to render.
+
+---
+
+<p align="center"><i>Open to Machine Learning Engineer, Data Engineer, and AI/ML Support roles.</i></p>
