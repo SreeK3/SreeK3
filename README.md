@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Professional | Autonomous Vehicle Perception Data | Aspiring ML Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rs-kalikar-52b25a251/">
+  <a href="https://linkedin.com/in/sreek-ai-ml">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sree0301K@gmail.com">
