@@ -52,6 +52,7 @@ Validated and maintained Python-based data pipelines supporting AI/ML production
 |---|---|---|
 | **[Obesity Risk Prediction](https://github.com/SreeK3/obesity-risk-prediction)** | Classification model predicting obesity risk from lifestyle/health features. Evaluated with accuracy, precision, recall, F1-score. | `Python` `scikit-learn` `Pandas` `NumPy` |
 | **[Flight Ticket Trading System](https://github.com/SreeK3/flight-ticket-trading-system)** | FastAPI + SQLAlchemy backend for ticket listing, buying, and selling with business-rule validation and transaction management. | `Python` `FastAPI` `SQL` |
+| **[Clinical Text Extraction API](https://github.com/SreeK3/clinical-text-extraction)** | NLP pipeline extracting medical entities (diseases, medications, dosages) from clinical notes using Hugging Face NER + FastAPI. | `Python` `Hugging Face` `spaCy` `FastAPI` |
 
 
 
