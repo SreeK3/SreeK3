@@ -26,13 +26,26 @@ I'm a Machine Learning professional with hands-on experience supporting **autono
 
 ### 🛠️ Skills
 
-**Languages & Data:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Languages & Data:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**ML & Data Science:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**ML & AI Frameworks:**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
-**Computer Vision / AV Data:** LiDAR Data Annotation & Validation, Semantic Segmentation, Multi-Modal Sensor Data, Crowd Compute, Semseg Tool, Guided Spotting Tool
+**LLM & RAG:**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white)
 
-**Web & Tools:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+**Data & Tools:**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
@@ -53,7 +66,7 @@ Validated and maintained Python-based data pipelines supporting AI/ML production
 | **[Obesity Risk Prediction](https://github.com/SreeK3/obesity-risk-prediction)** | Classification model predicting obesity risk from lifestyle/health features. Evaluated with accuracy, precision, recall, F1-score. | `Python` `scikit-learn` `Pandas` `NumPy` |
 | **[Flight Ticket Trading System](https://github.com/SreeK3/flight-ticket-trading-system)** | FastAPI + SQLAlchemy backend for ticket listing, buying, and selling with business-rule validation and transaction management. | `Python` `FastAPI` `SQL` |
 | **[Clinical Text Extraction API](https://github.com/SreeK3/clinical-text-extraction)** | NLP pipeline extracting medical entities (diseases, medications, dosages) from clinical notes using Hugging Face NER + FastAPI. | `Python` `Hugging Face` `spaCy` `FastAPI` |
-| **[Aisu — AI Support Agent](https://github.com/SreeK3/Ai-support-agent)** | RAG-based AI agent using LangChain, ChromaDB, and Groq LLM. Real-time chat UI via FastAPI. Built for AsuiTech Solutions. | `Python` `LangChain` `ChromaDB` `Groq` `FastAPI` |
+| **[Aisu — AI Support Agent](https://github.com/SreeK3/Ai-support-agent)** | RAG-based AI agent using LangChain, ChromaDB, and Groq LLM with real-time chat UI. **[Live Demo](https://aisu-ai-agent.onrender.com)** | `Python` `LangChain` `ChromaDB` `Groq` `FastAPI` |
 
 
 ---
