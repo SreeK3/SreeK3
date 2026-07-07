@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sree K</h1>
-<h3 align="center">Machine Learning Professional | Autonomous Vehicle Perception Data | Aspiring ML Engineer</h3>
+<h3 align="center">AI/ML Engineer | LLM & RAG Systems | LiDAR/AV Perception | Python · LangChain · PyTorch · FastAPI</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sreek-ai-ml">
+  <a href="https://www.linkedin.com/in/sreek-ai-ml/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sree0301K@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aisu-ai-agent.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-Aisu%20AI%20Agent-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   </a>
 </p>
 
@@ -14,12 +17,14 @@
 
 ### 🧭 About Me
 
-I'm a Machine Learning professional with hands-on experience supporting **autonomous vehicle perception systems** — annotating, validating, and quality-checking LiDAR and multi-modal sensor data that fed directly into Waymo's self-driving ML pipelines while at Wipro. I'm now building out my model-development skills (Python, scikit-learn, TensorFlow, PyTorch) and transitioning toward ML engineering and computer vision roles.
+AI/ML Engineer with 4+ years of experience building production ML pipelines and AI systems — including Waymo's autonomous vehicle perception program at Wipro, where I contributed to 1M+ labeled LiDAR frames that fed directly into production computer vision models.
 
-- 🔭 Currently sharpening my skills in classification modeling and CV fundamentals
-- 🌱 Learning: TensorFlow/Keras, PyTorch, deployment workflows
-- 💼 Background: LiDAR data annotation & validation, data pipeline QA for AV perception systems
-- 🎓 M.S. Computer Science — Sacred Heart University (2024)
+Currently building and deploying RAG-based AI applications at AsuiTech Solutions, including **Aisu** — a live AI Support Agent powered by LangChain, ChromaDB, and Groq LLM.
+
+- 🚀 Built & deployed **Aisu AI Support Agent** → [Live Demo](https://aisu-ai-agent.onrender.com)
+- 💼 Background: LiDAR/AV perception data pipelines, ML data quality, production monitoring
+- 🤖 Working with: LangChain, RAG, ChromaDB, Groq API, Hugging Face, FastAPI
+- 🎓 M.S. Computer Science — Sacred Heart University (GPA: 3.6/4.0)
 - 📫 Reach me: sree0301K@gmail.com
 
 ---
@@ -35,27 +40,41 @@ I'm a Machine Learning professional with hands-on experience supporting **autono
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logoColor=white)
 
 **LLM & RAG:**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-2E75B6?style=flat-square&logoColor=white)
 
 **Data & Tools:**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Computer Vision & AV Data:**
+![LiDAR](https://img.shields.io/badge/-LiDAR%20Annotation-1F3864?style=flat-square&logoColor=white)
+![Semantic Segmentation](https://img.shields.io/badge/-Semantic%20Segmentation-2E75B6?style=flat-square&logoColor=white)
+![Autonomous Vehicles](https://img.shields.io/badge/-Autonomous%20Vehicles-333333?style=flat-square&logoColor=white)
 
 ---
 
 ### 💼 Experience Highlights
 
-**Senior Associate — LiDAR Operations & ML Data Quality**, Wipro Pvt Ltd *(2020–2022)*
-Supported Waymo's autonomous vehicle perception pipeline through large-scale LiDAR/multi-modal sensor annotation, validation, and QA. Awarded "Best Performer" and part of the "Best Labeling Team."
+**Python Developer (AI/ML Projects)**, AsuiTech Solutions *(Dec 2025 – Present)*
+Built and deployed Aisu, a RAG-based AI Support Agent using LangChain, ChromaDB, and Groq LLM — live at [aisu-ai-agent.onrender.com](https://aisu-ai-agent.onrender.com)
+
+**ML Data Pipeline Engineer / Senior Associate**, Wipro — Waymo Program *(2020–2022)*
+Designed end-to-end ML data pipelines for Waymo's autonomous vehicle training program — 1M+ labeled LiDAR frames. Awarded "Best Performer" and "Best Labeling Team."
 
 **ML Support Engineer**, Skyline Archon Pvt Ltd *(2018–2020)*
-Validated and maintained Python-based data pipelines supporting AI/ML production workflows.
+Built and maintained Python-based ML data pipelines supporting AI model training workflows.
 
 ---
 
@@ -63,11 +82,10 @@ Validated and maintained Python-based data pipelines supporting AI/ML production
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Obesity Risk Prediction](https://github.com/SreeK3/obesity-risk-prediction)** | Classification model predicting obesity risk from lifestyle/health features. Evaluated with accuracy, precision, recall, F1-score. | `Python` `scikit-learn` `Pandas` `NumPy` |
-| **[Flight Ticket Trading System](https://github.com/SreeK3/flight-ticket-trading-system)** | FastAPI + SQLAlchemy backend for ticket listing, buying, and selling with business-rule validation and transaction management. | `Python` `FastAPI` `SQL` |
-| **[Clinical Text Extraction API](https://github.com/SreeK3/clinical-text-extraction)** | NLP pipeline extracting medical entities (diseases, medications, dosages) from clinical notes using Hugging Face NER + FastAPI. | `Python` `Hugging Face` `spaCy` `FastAPI` |
-| **[Aisu — AI Support Agent](https://github.com/SreeK3/Ai-support-agent)** | RAG-based AI agent using LangChain, ChromaDB, and Groq LLM with real-time chat UI. **[Live Demo](https://aisu-ai-agent.onrender.com)** | `Python` `LangChain` `ChromaDB` `Groq` `FastAPI` |
-
+| **[Aisu — AI Support Agent](https://github.com/SreeK3/Ai-support-agent)** | RAG-based AI agent using LangChain, ChromaDB, and Groq LLM. **[🔗 Live Demo](https://aisu-ai-agent.onrender.com)** | `Python` `LangChain` `ChromaDB` `Groq` `FastAPI` |
+| **[Clinical Text Extraction API](https://github.com/SreeK3/clinical-text-extraction)** | NLP pipeline extracting medical entities from clinical notes using Hugging Face biomedical NER. F1: 0.70 | `Python` `Hugging Face` `spaCy` `FastAPI` |
+| **[Obesity Risk Prediction](https://github.com/SreeK3/obesity-risk-prediction)** | ML classification pipeline (Random Forest, XGBoost) achieving 99% weighted F1-score. | `Python` `scikit-learn` `XGBoost` `Pandas` |
+| **[Flight Ticket Trading System](https://github.com/SreeK3/flight-ticket-trading-system)** | RESTful API backend for ticket listing, buying, and selling with business-rule validation. | `Python` `FastAPI` `SQLAlchemy` `SQLite` |
 
 ---
 
@@ -80,4 +98,4 @@ Validated and maintained Python-based data pipelines supporting AI/ML production
 
 ---
 
-<p align="center"><i>Open to Machine Learning Engineer, Data Engineer, and AI/ML Support roles.</i></p>
+<p align="center"><i>Open to AI Engineer, Machine Learning Engineer, and Applied ML roles.</i></p>
